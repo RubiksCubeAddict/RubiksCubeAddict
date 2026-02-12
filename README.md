@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi, I'm RubiksCubeAddict
+**Computer Science & Cybersecurity Student**
 
-<!--
-**RubiksCubeAddict/RubiksCubeAddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## About Me
+  I'm a student learning about **software engineering** and **cybersecurity**.
+  I enjoy building apps and sites, protecting them, and contributing to projects.
 
-Here are some ideas to get you started:
+  ## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Programming & Development
+  - Python | HTML, CSS | JavaScript | Java
+  - Git & GitHub
+  - Software Design & Architecture
+  - UI/UX & Desktop Apps
+
+  ### Tools & Platforms
+  - VS Code | IntelliJ | Docker
+
+    
