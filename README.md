@@ -8,12 +8,12 @@
   ## 🛠️ Skills
 
   ### Programming & Development
-  - Python | HTML, CSS | JavaScript | Java
+  - Python | HTML, CSS | JavaScript | Java | C
   - Git & GitHub
   - Software Design & Architecture
   - UI/UX & Desktop Apps
 
   ### Tools & Platforms
-  - VS Code | IntelliJ | Docker
+  - VS Code | IntelliJ | CLion | Docker
 
     
